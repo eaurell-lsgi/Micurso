@@ -1,0 +1,16 @@
+﻿  PROVA SMFL DIA 15-10-24.cpp
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(136,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(136,49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(139,44): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(153,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(166,61): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(166,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(169,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(275,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(293,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(376,42): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(377,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(397,38): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(398,55): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\PROVA SMFL DIA 15-10-24\PROVA SMFL DIA 15-10-24.cpp(418,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  PROVA SMFL DIA 15-10-24.vcxproj -> E:\AluCiclesGS1\Erik\Nueva carpeta\PROGR\timber\Debug\PROVA SMFL DIA 15-10-24.exe
